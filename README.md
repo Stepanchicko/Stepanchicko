@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Stepanchicko
+- 👀 I’m interested in lua coding, music making.
+- 🌱 I’m currently learning python and blender,
+- 💞️ I’m looking to collaborate on a horror lua game.
+- 📫 How to reach me - stepanabramov10@mail.ru (gmail), Stepanchicko#2853 (discord)
